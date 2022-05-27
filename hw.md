@@ -1,8 +1,12 @@
-Hello world!
+# Hello world!
+
+## Formatting text
 
 *Курсив*
 
 **Полужирный**
+
+## Lists
 
 * Элимент 1
 * Элимент 2
