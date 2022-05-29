@@ -8,6 +8,8 @@ if you want to highlight bold text note them ****, or ____, example: **some text
 
 ## Lists
 
+highlight list use *
+
 ## Work with images
 
 ## link
