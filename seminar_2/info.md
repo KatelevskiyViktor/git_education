@@ -1,6 +1,6 @@
-### Create first file
+### Git
 #### Today work with control version branch 
 ##### Work with branch seminar
-##### Fix conflict
+##### Bag
 
 
