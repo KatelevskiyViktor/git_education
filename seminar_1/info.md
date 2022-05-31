@@ -1,5 +1,7 @@
 ## Meet to git
 
-### Work with
+### Work with commit
 
 #### Know how to save file
+
+##### Learning command diff 
