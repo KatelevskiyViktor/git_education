@@ -1,1 +1,1 @@
-# Start work with remote repository
+# Working on seminar with remote repository
