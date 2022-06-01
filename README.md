@@ -1,1 +1,1 @@
-# Here course about Java languege
+# Here course about Java language
