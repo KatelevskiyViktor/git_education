@@ -1,1 +1,1 @@
-# Working on seminar with remote repository
+# Here course about Java languege
